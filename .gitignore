@@ -16,7 +16,6 @@
 *.exe
 *.gcda
 *.gcno
-*.i
 *.lex.c
 *.lst
 *.mod.c
